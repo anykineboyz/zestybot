@@ -136,7 +136,7 @@ def webhook():
         ):
 
             send_message(
-                f"Niko 😭 please watch your language!"
+                f"NIKKOOOO😭 WATCH YOUR LANGUAGE!"
             )
 
             break
@@ -145,7 +145,7 @@ def webhook():
     # EVERY 3RD MESSAGE
     # -----------------------------
 
-    if niko_message_count % 3 == 0:
+    if niko_message_count % 7 == 0:
 
         zesty_messages = [
 
